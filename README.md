@@ -14,4 +14,4 @@ Este projeto é uma **calculadora funcional** desenvolvida durante os estudos no
 ✅ Exibição dinâmica do resultado  
 
 ## 🖼️ Preview
-![Calculadora](Screenshot_23.png) <!-- Substitua pelo caminho correto da imagem -->
+![Calculadora](Screenshot_23.png)
